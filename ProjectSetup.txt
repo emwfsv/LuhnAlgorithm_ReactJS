@@ -1,0 +1,4 @@
+This project is created using the following commands:
+
+npx create-react-app luhnalgorythm_react
+
